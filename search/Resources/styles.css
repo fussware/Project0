@@ -29,6 +29,7 @@ body {
   padding-left: 10px;
   padding-right: 10px;
   width: 100%;
+  vertical-align: middle;
 }
 .searchButton {
   border-width: 0px;
@@ -60,9 +61,13 @@ body {
   text-align: center;
   padding: 10px;
   margin: auto;
+  vertical-align: ;
 }
 .formSearch {
   width: 30%;
   padding: 10px;
   margin: auto;
+}
+.submitImg {
+  outline: none;
 }
